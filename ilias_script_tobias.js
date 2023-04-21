@@ -11,7 +11,9 @@
 
 (function () {
   "use strict";
-  document.querySelectorAll("input[name='cmd[saveStatusAll]']").forEach((btn) => {
-    btn.disabled = true;
-  });
+  document
+    .querySelectorAll("input[name='cmd[saveStatusAll]']")
+    .forEach((btn) => {
+      btn.disabled = true;
+    });
 })();
