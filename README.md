@@ -1,4 +1,4 @@
-# ilias-disable-safe-all
+# ilias-disable-save-all
 
 A tiny Tampermonkey JavaScript script, to disable the save all buttons in ILIAS
 
