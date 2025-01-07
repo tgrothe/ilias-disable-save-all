@@ -7,6 +7,7 @@
 // @match        https://www.hsbi.de/elearning/ilias.php*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=hsbi.de
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 // ==OpenUserJS==
