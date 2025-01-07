@@ -4,4 +4,4 @@ A Tampermonkey JavaScript script to disable the save all buttons in ILIAS to pre
 
 ---
 
-Please see [ilias_script_tobias.user.js](ilias_script_tobias.user.js) and [https://openuserjs.org/scripts/tgrothe/ilias-disable-save-all](https://openuserjs.org/scripts/tgrothe/ilias-disable-save-all) to install.
+Please see [ilias_script_tobias.user.js](ilias_script_tobias.user.js) and [https://openuserjs.org/scripts/tgrothe/Disable_Save_All_Buttons_in_ILIAS](https://openuserjs.org/scripts/tgrothe/Disable_Save_All_Buttons_in_ILIAS) to install.
