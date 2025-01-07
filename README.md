@@ -1,6 +1,6 @@
 # ilias-disable-save-all
 
-A tiny Tampermonkey JavaScript script, to disable the save all buttons in ILIAS
+A Tampermonkey JavaScript script to disable the save all buttons in ILIAS to prevent accidental saving of unwanted changes.
 
 ---
 
