@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Disable Save All Buttons in ILIAS
 // @namespace    https://openuserjs.org/users/tgrothe
-// @version      0.2
+// @version      0.3
 // @description  Script to disable the save all buttons in ILIAS to prevent accidental saving of unwanted changes
 // @author       tgrothe
 // @match        https://www.hsbi.de/elearning/ilias.php*
@@ -16,9 +16,11 @@
 
 (function () {
   "use strict";
+
   document
     .querySelectorAll("input[name='cmd[saveStatusAll]']")
     .forEach(function (btn) {
       btn.disabled = true;
     });
+
 })();
